@@ -8,13 +8,7 @@ An interactive Flutter web app featuring a beating heart animation with particle
 
 ## Demo
 
-https://github.com/user-attachments/assets/your-video-id-here.mp4
-
-> **Note:** Replace the URL above with your actual video. To add a video:
-> 1. Go to any GitHub issue or PR
-> 2. Drag and drop your video file
-> 3. Copy the generated URL and replace it above
-> 4. Delete this note
+[animated_heart_video.mp4](.github/assets/animated_heart_video.mp4)
 
 ## Features
 
